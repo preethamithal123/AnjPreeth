@@ -10,8 +10,8 @@ public class ApiTest {
 		
 		System.out.println("git 1");
 		System.out.println("git 1");
-		System.out.println("git 1");
-		System.out.println("git 1");
+		
+		
 	}
 	
 	@Test
