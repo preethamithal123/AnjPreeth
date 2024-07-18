@@ -13,5 +13,13 @@ public class ApiTest {
 		System.out.println("git 1");
 		System.out.println("git 1");
 	}
+	
+	@Test
+	public void apiTest3()
+	{
+		System.out.println("git 2");
+		System.out.println("git 2");
+		System.out.println("git 2");
+	}
 
 }
