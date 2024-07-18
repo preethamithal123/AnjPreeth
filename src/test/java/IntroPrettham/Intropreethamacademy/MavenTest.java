@@ -9,6 +9,8 @@ public class MavenTest {
 	public void webAuto()
 	{
 		System.out.println("first commit");
+		System.out.println("branch commit1");
+		System.out.println("branch commit2");
 	}
 	@Test
  public void webAuto2()

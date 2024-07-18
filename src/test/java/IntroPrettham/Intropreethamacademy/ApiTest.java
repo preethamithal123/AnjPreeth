@@ -10,8 +10,13 @@ public class ApiTest {
 		
 		System.out.println("git 1");
 		System.out.println("git 1");
+		System.out.println("git my 1");
 		
-		
+	}
+	@Test
+	public void postmanTest()
+	{
+		System.out.println("develop branch 1");
 	}
 	
 	@Test
